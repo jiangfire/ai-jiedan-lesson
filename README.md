@@ -25,6 +25,6 @@
 
 ## 生成与维护
 
-- 教案与课件由自研 [lesson-plan skill](https://github.com/jiangfire/lesson-plan) 生成：教案按模板填 Markdown，课件以固定放映壳（1280×720，Reveal.js 内联，离线可用）生成；
+- 教案与课件由自研 [lesson-plan skill](https://github.com/jiangfire/lesson-plan-skills) 生成：教案按模板填 Markdown，课件以固定放映壳（1280×720，Reveal.js 内联，离线可用）生成；
 - 课件壳为只读资产，仅允许维护升级（如整壳拼接同步）；日常修改请改教案后重新生成课件；
 - 配图仅嵌「值得的图」，base64 内嵌，规范见 `配图清单.md`。
